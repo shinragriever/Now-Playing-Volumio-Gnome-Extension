@@ -1,0 +1,10 @@
+{
+    "description" : "Volumio now playing extention for gnome",
+    "name" : "Now Playing on Volumio",
+    "shell-version": [
+        "3.38.2"
+    ],
+    "url" : "",
+    "uuid" : "nowplayingvolumio@griever",
+    "version" : 1
+}
